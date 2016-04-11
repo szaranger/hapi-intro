@@ -1,0 +1,17 @@
+{
+  "name": "hapi-intro",
+  "version": "1.0.0",
+  "description": "A boilerplate app for running hapi.js server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hapi"
+  ],
+  "author": "Sean Amarasinghe",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^10.4.0"
+  }
+}
